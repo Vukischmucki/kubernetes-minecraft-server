@@ -4,7 +4,7 @@
 
 # ********REQUIRED********
 node:
-  hostname: 'dell3' # Your kube node's hostname
+  hostname: 'server-proliant-dl380p-gen8' # Your kube node's hostname
 # ************************
 
 minecraft:
