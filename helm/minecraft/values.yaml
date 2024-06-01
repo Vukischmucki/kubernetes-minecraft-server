@@ -14,13 +14,13 @@ minecraft:
 
 volume:
   storage: 3Gi
-  path: '/mnt/local-volumes/minecraft' # Path to wherever you want to save your worldfile
+  path: '/Desktop/RufiLover/local-volumes/minecraft' # Path to wherever you want to save your worldfile
 
 resources:
   limits:
-    memory: 2Gi
+    memory: 8Gi
   requests:
-    memory: 1.5Gi
+    memory: 4Gi
 
 serviceAccount:
   create: true
